@@ -1,0 +1,1 @@
+TrainingNGram.d: ../TrainingNGram.cpp

@@ -1,0 +1,15 @@
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//merge.txt
+/home/haowei/tmp/5tuple/5tuple/te//NGram/人民日报_ngram.txt
+/home/haowei/tmp/5tuple/5tuple/te//WordFreq/pos.txt
+/home/haowei/tmp/5tuple/5tuple/te//WordFreq/ungram.txt
+/home/haowei/tmp/5tuple/5tuple/te//merge_bi_0.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//merge_tri_0.txt
+/home/haowei/tmp/5tuple/5tuple/te//PosGram/人民日报_posgram.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+/home/haowei/tmp/5tuple/5tuple/te//人民日报.txt
+../te//人民日报.txt
